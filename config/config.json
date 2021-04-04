@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "database_development_retro",
+    "host": "localhost",
+    "port": "8889",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "yacine",
+    "password": "password",
+    "database": "database_test_retro",
+    "host": "localhost",
+    "Port": "3306",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "yacinesofzsoussi",
+    "password": "barca4ever",
+    "database": "Node",
+    "host": "yacinesofzsoussi.mysql.db",
+    "dialect": "mysql"
+  }
+}
